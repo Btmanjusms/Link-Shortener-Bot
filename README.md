@@ -4,7 +4,7 @@ Make short link by using Different Website API Keys
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Btmanjusms/Link-Shortener-Bot)
 
 ##### Required Variables
 
