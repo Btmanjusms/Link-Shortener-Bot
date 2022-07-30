@@ -39,7 +39,7 @@ async def link_handler(bot, message):
     for link in links:
         try:
             short_link = await get_shortlink(link)
-            await message.reply(f"**linkbanao short link 👇🏻**\n\n: `{short_link}`",quote=True,disable_web_page_preview=True)
+            await message.reply(f"**indianshortner short link 👇🏻**\n\n: `{short_link}`",quote=True,disable_web_page_preview=True)
         except Exception as e:
             await message.reply(f'𝐄𝐫𝐫𝐨𝐫: `{e}`', quote=True)
 
